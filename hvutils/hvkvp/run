@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec hv_kvp_daemon --no-daemon
